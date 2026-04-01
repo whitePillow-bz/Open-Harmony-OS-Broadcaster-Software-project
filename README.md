@@ -12,7 +12,7 @@ HUAWEI HarmonyOS6.01(PC)
 
 #### 安装教程
 
-OpenHarmony:点击左侧发行版下载链接，下载完毕后，openharmony弹窗后点击<span style="color:bule;">蓝色</span>「安装」
+OpenHarmony:点击左侧发行版下载链接，下载完毕后，openharmony弹窗后点击「安装」即可![输入图片说明](IMG_1559.jpeg)
 
 #### 使用说明
 
