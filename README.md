@@ -1,7 +1,13 @@
 # Open Harmony OS Broadcaster Software project
 
 #### 介绍
-暂无。。。。。。。。。
+
+这是一个依据开源鸿蒙及鸿蒙特点自主研发的电脑专业级直播软件。
+以OBS现有功能及其逻辑为参考，结合鸿蒙多端互联的特点，深度融合开发。
+提供基本功能，但并不保证软件稳定，仅作为学习和以此为底座开发发行版
+如需要稳定且功能更全面的官方发行版，请转至：
+gitee：https://gitee.com/chomoa/harmony-broadcaster-software-hbs
+GitHub：……
 
 #### 软件架构
 
